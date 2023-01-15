@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabbley
 - 👀 I’m interested in data analysis and UX/UI research
-- 🌱 I’m currently learning how to manage an indie video game project
+- 🌱 I’m currently helping to expand [musicmin.app](url)
 - 📫 Reach me at ollergabrielle@gmail.com or on Instagram @gollibee
 
 <!---

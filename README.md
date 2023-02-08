@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabbley
 - 👀 I'm intersted in data analysis and UX/UI research
-- 🌱 What I'm working on: helping to expand [musicmin.app](https://www.musicmin.app/)
+- 🌱 Helping to expand [musicmin.app](https://www.musicmin.app/)
 - 📖 Currently reading: <i>Tomorrow, and Tomorrow, and Tomorrow</i> by Gabrielle Zevin
 - 📫 How to reach me: ollergabrielle@gmail.com or on Instagram @gollibee
 

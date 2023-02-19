@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabbley
 - 👀 I'm intersted in data analysis and UX/UI research
 - 🌱 Helping to expand [musicmin.app](https://www.musicmin.app/)
-- 📖 Currently reading: <i>The Dictionary of Lost Words</i> by Pip Williams
+- 📖 Currently reading: <i>The Girls</i> by Emma Cline
 - 📫 How to reach me: ollergabrielle@gmail.com or on Instagram @gollibee
 
 <!---

@@ -3,7 +3,7 @@
 - 🍎 Currently teaching high school CS (hello, students)
 - 🌱 Helping to expand [musicmin.app](https://www.musicmin.app/)
 - 📖 Currently reading: <i>Little Women</i> by Louisa May Alcott
-- 📫 How to reach me: ollergabrielle@gmail.com
+- 📫 How to reach me: gabrielle.baniqued@bishopireton.org
 
 <!---
 gabbley/gabbley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
